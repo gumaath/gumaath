@@ -11,7 +11,7 @@
   Sou apaixonado por manipular o front-end com foco na experiência do usuário <i>(sim, uma interface bonitinha <b>faz a diferença</b>.)</i>
   </br>
   </br>
-  Atualmente trabalho como fullstack, utilizando PHP, Zend Framework, jQuery e JavaScript em um sistema legado, também trabalho com ReactJS e NodeJS em novos projetos.
+  Atualmente trabalho como Full Stack, utilizando PHP, Zend Framework, jQuery e JavaScript em um sistema legado, também trabalho com ReactJS e NodeJS em novos projetos.
   
   Meu atual foco é estudar e criar portfólio para novas tecnologias front-end 
   e buscar cada vez mais conhecimento para criar interfaces com foco na usabilidade! ❤️
